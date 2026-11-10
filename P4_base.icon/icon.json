@@ -1,0 +1,86 @@
+{
+  "fill" : {
+    "linear-gradient" : [
+      "display-p3:0.00000,0.81176,1.00000,1.00000",
+      "extended-srgb:0.00000,0.53333,1.00000,1.00000"
+    ]
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "image-name" : "Umeboshi.svg",
+          "name" : "Umeboshi",
+          "position" : {
+            "scale" : 0.4,
+            "translation-in-points" : [
+              -0.16370293103386757,
+              25.799838426018823
+            ]
+          }
+        },
+        {
+          "hidden" : true,
+          "image-name" : "P4V_Rotor_TwoSides_30.svg",
+          "name" : "P4V_Rotor_TwoSides_30",
+          "position" : {
+            "scale" : 2,
+            "translation-in-points" : [
+              27,
+              -14
+            ]
+          }
+        },
+        {
+          "hidden" : true,
+          "image-name" : "P4V_Rotor_ThreeSides_30.svg",
+          "name" : "P4V_Rotor_ThreeSides_30",
+          "position" : {
+            "scale" : 2,
+            "translation-in-points" : [
+              27,
+              -14
+            ]
+          }
+        },
+        {
+          "hidden" : true,
+          "image-name" : "P4V_Rotor_OneSide_30.svg",
+          "name" : "P4V_Rotor_OneSide_30",
+          "position" : {
+            "scale" : 2,
+            "translation-in-points" : [
+              27,
+              -14
+            ]
+          }
+        },
+        {
+          "image-name" : "P4V_Rotor_NoSide_30.svg",
+          "name" : "P4V_Rotor_NoSide_30",
+          "position" : {
+            "scale" : 2,
+            "translation-in-points" : [
+              27,
+              -14
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.3
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="梅干しのシンプルなアイコン">
+  <title>Umeboshi</title>
+  <path id="umeboshi-body" fill="#B8294C" d="M256 58 C316 55 348 80 386 113 C432 154 458 202 455 260 C453 324 430 368 382 407 C340 443 293 458 238 453 C182 450 142 426 105 388 C68 350 55 306 58 252 C60 198 83 153 122 116 C161 77 204 60 256 58 Z"/>
+  <path id="crease-left" fill="none" stroke="#921C3C" stroke-width="10" stroke-linecap="round" d="M140 185 C163 170 185 170 205 179"/>
+  <path id="crease-right" fill="none" stroke="#921C3C" stroke-width="10" stroke-linecap="round" d="M326 151 C348 166 360 185 362 205"/>
+  <path id="crease-bottom" fill="none" stroke="#921C3C" stroke-width="10" stroke-linecap="round" d="M201 365 C225 380 251 384 277 374"/>
+</svg>
