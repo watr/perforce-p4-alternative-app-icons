@@ -10,7 +10,7 @@ Inspired by compact, satisfying onigiri and the smooth, continuous motion of rot
 
 ## Downloads
 
-Open [GitHub Releases](https://github.com/watr/perforce-p4-alternative-app-icons/releases) and look under **Assets** for `P4-Alternative-App-Icons.zip` (all three PNGs) or an individual PNG.
+Open [GitHub Releases](https://github.com/watr/perforce-p4-alternative-app-icons/releases) and look under **Assets** for `P4-Alternative-App-Icons.zip` (all three PNGs and a short README) or an individual PNG.
 
 You can also open an individual PNG here and choose **Download raw file**.
 
